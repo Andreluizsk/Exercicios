@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class Main {
+public class ImprimirNumero {
     public static void main(String[] args) {
 
         String valor = JOptionPane.showInputDialog("Informe o Valor desejado");
