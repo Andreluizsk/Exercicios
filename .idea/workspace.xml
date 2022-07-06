@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c886554-aacc-49dc-ada6-5d651fe0acc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GastosNewAppDiario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PitSmoker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tabuada" />
+    <configuration name="PitSmoker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PitSmoker" />
       <module name="Exercicios" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,10 +77,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.GastosNewAppDiario" />
+        <item itemvalue="Application.PitSmoker" />
         <item itemvalue="Application.GastosNewApp" />
         <item itemvalue="Application.TabuadaInversa" />
         <item itemvalue="Application.TabuadaReversa" />
-        <item itemvalue="Application.Tabuada" />
       </list>
     </recent_temporary>
   </component>
