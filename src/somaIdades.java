@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.lang.*;
+import java.sql.SQLOutput;
 
 public class somaIdades {
     public static void main(String[] args) {
