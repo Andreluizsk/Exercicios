@@ -10,7 +10,6 @@ segundo	vale	1, e daí por diante. O	n-ésimo	elemento vale	o (n-1)-ésimo	eleme
             x = i - x;
             System.out.println("A seguencia começando do 0 é: " + x );
 
-            // System.out.println("A seguencia começando do 0 é: " + i );
         }
     }
 }
