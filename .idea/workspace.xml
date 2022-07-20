@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32aec95-0ae7-4c25-be29-ba854aa760f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DesafioConversao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DesafioConversao">
+    <configuration name="DesafioConversao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioConversao" />
+      <module name="Develop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="Develop" />
@@ -44,6 +52,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioConversao" />
         <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
