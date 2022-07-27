@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d32aec95-0ae7-4c25-be29-ba854aa760f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classe/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/DataTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ProdutoTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classe/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classe/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DataTeste">
+  <component name="RunManager" selected="Application.ProdutoTeste">
     <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classe.DataTeste" />
       <module name="Develop" />
@@ -69,6 +67,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classe.ProdutoTeste" />
+      <module name="Develop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="teste" />
       <module name="Develop" />
@@ -78,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProdutoTeste" />
         <item itemvalue="Application.DataTeste" />
         <item itemvalue="Application.teste" />
         <item itemvalue="Application.DiaSemana" />
